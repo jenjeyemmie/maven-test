@@ -1,8 +1,2 @@
 # maven-project
-dsgsfddfgh
-Simple Maven Project
-<br
-
-safsdavasdfgfd
-sdvsdfvsdfb
-cnbgcgvfnfhgmjy
+This is a test on jenkins/nexus
